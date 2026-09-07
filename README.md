@@ -18,6 +18,15 @@ Free JSON and CSV feed of every **UK49s** draw since September 2018, plus **Gosl
 
 Every JSON response is wrapped: `{ api, version, docs, attribution, licence, builtAt, resource, data }`.
 
+## Show the results on your own page
+
+[uk49s-widget](https://github.com/zaiqltd/uk49s-widget) renders the latest UK49s draws and a countdown to the next one with one script tag, reading this API. It prints the attribution line for you.
+
+```html
+<div data-uk49s-widget data-draws="lunchtime,teatime"></div>
+<script src="https://cdn.jsdelivr.net/gh/zaiqltd/uk49s-widget@main/dist/uk49s-widget.min.js" defer></script>
+```
+
 ## Examples
 
 ```js
