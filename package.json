@@ -1,0 +1,1 @@
+{ "name": "bettip-draws-api", "private": true, "type": "module", "description": "Free JSON/CSV feed of UK49s, Gosloto and SA Lottery results from bettip.co.za", "scripts": { "sync": "node scripts/sync.mjs" }, "license": "MIT", "repository": "github:zaiqltd/bettip-draws-api", "homepage": "https://bettip.co.za/api/" }
