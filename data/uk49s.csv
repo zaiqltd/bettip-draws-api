@@ -5862,3 +5862,7 @@ date,draw,n1,n2,n3,n4,n5,n6,booster,official
 2026-09-24,lunchtime,14,21,25,26,46,47,49,true
 2026-09-24,drivetime,20,32,36,45,47,49,9,false
 2026-09-24,teatime,2,7,13,23,27,34,40,true
+2026-09-25,brunchtime,9,10,14,18,19,42,13,false
+2026-09-25,lunchtime,16,19,20,25,28,30,29,true
+2026-09-25,drivetime,2,4,9,34,42,44,20,false
+2026-09-25,teatime,14,17,26,29,43,45,1,true
